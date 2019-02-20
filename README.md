@@ -6,4 +6,8 @@ In this project was used a meteorological station, in which it contains a client
 
 In the TTN itself it is possible to link with the Cayenne, thus sending the data direct to Cayenne
 
+Library used into client
+https://github.com/matthijskooijman/arduino-lmic
 
+Library used into Getaway
+https://github.com/things4u/ESP-1ch-Gateway-v4.0
